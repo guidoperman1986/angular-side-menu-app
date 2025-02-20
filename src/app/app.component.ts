@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { AdminLayoutComponent } from "./modules/admin/layouts/admin-layout/admin-layout.component";
 import { RouterOutlet } from '@angular/router';
 
 @Component({
